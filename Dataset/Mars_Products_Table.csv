@@ -1,0 +1,50 @@
+ProductID,ProductName,Category,Subcategory,PriceINR,AvgRating,NumReviews
+P001,Matte Muse,Lips,Lipstick,249,4.2,958
+P002,Velvet Kiss,Lips,Lipstick,249,4.3,880
+P003,Bold Touch,Lips,Lipstick,399,4,548
+P004,SugarPop,Lips,Lipstick,349,3.6,110
+P005,Glam Stick,Lips,Lipstick,299,3.7,790
+P006,Drip Shine,Lips,Lip Gloss,499,4.5,173
+P007,Candylicious,Lips,Lip Gloss,399,4.4,53
+P008,Gloss Up,Lips,Lip Gloss,299,4.4,196
+P009,Lustre,Lips,Lip Gloss,449,4.9,385
+P010,CineMagic,Lips,Lip Gloss,399,3.6,374
+P011,Edge of Desire,Lips,Lip Liner,499,3.9,20
+P012,Outline Pro,Lips,Lip Liner,499,3.5,51
+P013,Sharp Define,Lips,Lip Liner,449,4.2,536
+P014,HydraTint,Lips,Lip Mist,299,4.8,76
+P015,Color Fog,Lips,Lip Mist,299,4.5,430
+P016,Mist Kiss,Lips,Lip Mist,199,3.9,970
+P017,Sketch Pro,Eyes,Eyeliner,199,3.8,951
+P018,Line Art,Eyes,Eyeliner,399,4.6,36
+P019,Ink Master,Eyes,Eyeliner,399,4,187
+P020,Volume X,Eyes,Mascara,449,4.4,908
+P021,Lash Boom,Eyes,Mascara,449,3.7,492
+P022,Curl Drama,Eyes,Mascara,299,4.6,891
+P023,Shimmer Pop,Eyes,Eyeshadow,399,4.1,983
+P024,Nude Palette,Eyes,Eyeshadow,199,3.5,729
+P025,Color Splash,Eyes,Eyeshadow,249,4.5,417
+P026,Blackout,Eyes,Kajal,349,4.9,127
+P027,Smooth Glide,Eyes,Kajal,449,4.1,773
+P028,Intense Eyes,Eyes,Kajal,299,4.7,102
+P029,Perfect Match,Face,Foundation,199,4.2,301
+P030,Matte Cover,Face,Foundation,449,4.2,193
+P031,Dewy Finish,Face,Foundation,299,4.8,634
+P032,Blur Base,Face,Primer,399,5,910
+P033,Glow Start,Face,Primer,349,3.9,103
+P034,Hide It,Face,Concealer,349,4.5,583
+P035,Correct Pro,Face,Concealer,349,4.2,10
+P036,Rosy Touch,Face,Blush,499,4.5,916
+P037,Peach Bloom,Face,Blush,249,4.6,685
+P038,Glow Beam,Face,Highlighter,499,4.4,303
+P039,Shine Dust,Face,Highlighter,399,4.7,498
+P040,Matte Fix,Face,Compact,349,3.6,10
+P041,Oil Control,Face,Compact,499,3.5,989
+P042,Hydra Boost,Skincare,Moisturizer,299,3.5,587
+P043,Silky Soft,Skincare,Moisturizer,249,4.2,541
+P044,Gentle Clean,Skincare,Cleanser,499,4.4,213
+P045,Deep Purify,Skincare,Cleanser,399,4.2,485
+P046,Glow Serum,Skincare,Serum,449,3.9,650
+P047,Skin Renew,Skincare,Serum,399,4.8,173
+P048,UV Shield,Skincare,Sunscreen,449,4.5,823
+P049,Sun Block,Skincare,Sunscreen,249,3.7,126

@@ -1,0 +1,37 @@
+Store ID,City,State,Monthly Sales (INR),Monthly Footfall,Refill Frequency (per month),Manager Name,Opening Year
+MARS001,"Lajpat Nagar, New Delhi",Delhi,729610,4511,4,Ananya Mehra,2024
+MARS002,"Karol Bagh, New Delhi",Delhi,1072254,4027,1,Devika Saini,2020
+MARS003,"Dwarka, New Delhi",Delhi,508021,5747,1,Varun Iyer,2023
+MARS004,"Dwarka, New Delhi",Delhi,423135,9759,1,Isha Choudhary,2019
+MARS005,"Saket, New Delhi",Delhi,1065265,5798,3,Varun Iyer,2024
+MARS006,"Saket, New Delhi",Delhi,827852,7822,5,Shalini Verma,2018
+MARS007,"Lajpat Nagar, New Delhi",Delhi,330901,6629,5,Arjun Sen,2021
+MARS008,"Lajpat Nagar, New Delhi",Delhi,992266,8650,2,Shalini Verma,2022
+MARS009,"Lajpat Nagar, New Delhi",Delhi,929618,6606,3,Megha Reddy,2021
+MARS010,"Dwarka, New Delhi",Delhi,550440,4170,3,Devika Saini,2022
+MARS011,"Lajpat Nagar, New Delhi",Delhi,706683,7269,1,Devika Saini,2023
+MARS012,"Connaught Place, New Delhi",Delhi,739831,2737,5,Varun Iyer,2023
+MARS013,"Dwarka, New Delhi",Delhi,1030810,6793,2,Arjun Sen,2018
+MARS014,"Colaba, Mumbai",Maharashtra,997872,3815,5,Rohan Desai,2019
+MARS015,"Bandra, Mumbai",Maharashtra,338704,9833,3,Rajeev Kumar,2021
+MARS016,"Dadar, Mumbai",Maharashtra,798288,8834,2,Devika Saini,2022
+MARS017,"Borivali, Mumbai",Maharashtra,544049,4314,1,Sneha Patil,2018
+MARS018,"Bandra, Mumbai",Maharashtra,470825,2413,2,Shalini Verma,2021
+MARS019,"Dadar, Mumbai",Maharashtra,219452,8791,5,Rohan Desai,2019
+MARS020,"Vijay Nagar, Indore",Madhya Pradesh,1071294,8980,2,Shalini Verma,2020
+MARS021,"Rajwada, Indore",Madhya Pradesh,1091836,7004,2,Isha Choudhary,2020
+MARS022,"Palasia, Indore",Madhya Pradesh,436258,8178,4,Sneha Patil,2019
+MARS023,"Telibandha, Raipur",Chhattisgarh,1002971,7708,1,Ananya Mehra,2021
+MARS024,"Banjara Hills, Hyderabad",Telangana,354127,7745,4,Devika Saini,2024
+MARS025,"T. Nagar, Chennai",Tamil Nadu,613209,4600,1,Rohan Desai,2018
+MARS026,"Kankarbagh, Patna",Bihar,243598,1510,4,Rohan Desai,2018
+MARS027,"Kankarbagh, Patna",Bihar,890794,2224,2,Rajeev Kumar,2021
+MARS028,"Rajendra Nagar, Patna",Bihar,654487,4806,1,Devika Saini,2020
+MARS029,"Kokar, Ranchi",Jharkhand,486994,9130,2,Ananya Mehra,2018
+MARS030,"Harmu, Ranchi",Jharkhand,368713,7372,2,Isha Choudhary,2023
+MARS031,"Harmu, Ranchi",Jharkhand,305453,9783,3,Varun Iyer,2019
+MARS032,"Park Street, Kolkata",West Bengal,721566,1781,5,Rajeev Kumar,2023
+MARS033,"Park Street, Kolkata",West Bengal,818354,9128,5,Varun Iyer,2024
+MARS034,"Malviya Nagar, Jaipur",Rajasthan,853995,4163,3,Varun Iyer,2022
+MARS035,"Bapu Nagar, Jaipur",Rajasthan,889271,2434,1,Arjun Sen,2018
+MARS036,"Vaishali Nagar, Jaipur",Rajasthan,851639,3319,2,Isha Choudhary,2023
