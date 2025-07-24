@@ -1,4 +1,12 @@
 # 💄 MARS Cosmetics Analytics Dashboard | Data Analysis Project
+---
+
+## 📷 Dashboard Preview
+
+<img width="1310" height="738" alt="Image" src="https://github.com/user-attachments/assets/216aa481-a512-41e5-8969-2364f04b85dd" />
+
+---
+
 
 ### 📊 Unveiling Data-Driven Beauty Decisions
 
@@ -100,11 +108,6 @@ MARS_Cosmetics_Dashboard/
 
 ---
 
-## 📷 Dashboard Preview
-
-<img width="1310" height="738" alt="Image" src="https://github.com/user-attachments/assets/216aa481-a512-41e5-8969-2364f04b85dd" />
-
----
 
 ## 🙌 Let's Connect!
 * 💼 [LinkedIn](https://www.linkedin.com/in/umang-sinha-2b1853241)
