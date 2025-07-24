@@ -1,4 +1,3 @@
-
 # 💄 MARS Cosmetics Analytics Dashboard | Data Analysis Project
 
 ### 📊 Unveiling Data-Driven Beauty Decisions
@@ -108,6 +107,8 @@ MARS_Cosmetics_Dashboard/
 ---
 
 ## 🙌 Let's Connect!
+* 💼 [LinkedIn](https://www.linkedin.com/in/umang-sinha-2b1853241)
+* 📧 [G-Mail](umang.2003@gmail.com)
 
 If you found this project insightful or have feedback to share, feel free to connect or drop a ⭐️ on the repo!
 
