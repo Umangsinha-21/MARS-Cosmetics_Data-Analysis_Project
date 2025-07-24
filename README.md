@@ -103,7 +103,7 @@ MARS_Cosmetics_Dashboard/
 
 ## 📷 Dashboard Preview
 
-> \[📌 Embed screenshots or link to the live report here, if possible]
+<img width="1310" height="738" alt="Image" src="https://github.com/user-attachments/assets/216aa481-a512-41e5-8969-2364f04b85dd" />
 
 ---
 
